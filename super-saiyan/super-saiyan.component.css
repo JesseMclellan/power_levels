@@ -1,0 +1,25 @@
+.wrapper{
+    height: 150px;
+    width: 350px;
+    background-color: #4dff4d;
+    display: inline-block;
+    margin: 0px 8px 0px 16px;
+    border: 2px solid black;
+    vertical-align: top;
+}
+
+.h4{
+    margin: 0px;
+}
+
+h3{
+    font-size: 20pt;
+    margin: 0px;
+    text-align: center;
+}
+
+ h4{
+    font-size: 24pt;
+    margin: 0px;
+    text-align: center;
+ }

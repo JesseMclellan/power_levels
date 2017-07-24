@@ -1,0 +1,49 @@
+.wrapper{
+    margin: 0px auto;
+    height: 670px;
+    width: 1200px;
+    background-color: #ff6699;
+    border: 2px solid black;
+}
+
+form{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.title{
+    margin: 10px 10px 0px 25px;
+    font-size: 25pt;
+    vertical-align: top;
+}
+
+select{
+    font-size: 16pt;
+    margin: 5px 10px 0px 0px;
+}
+
+input{
+    width: 70px;
+    font-size: 16pt;
+    /*padding: 0px 38px 0px 38px;*/
+    text-align: center;
+    box-shadow: 3px 3px;
+    background-color: white;
+    vertical-align: top;
+}
+
+img{
+    height: 250px;
+    width: auto;
+    margin: 0px 0px 0px 160px;
+    box-shadow: 3px 3px;
+    border: 2px solid black;
+}
+
+.power-levels{
+    height: 315px;
+    width: 1150px;
+    background-color: #33ccff;
+    margin: 10px 0px 0px 15px;
+    padding: 10px;
+}
